@@ -22,7 +22,7 @@
 	],
 	"require": {
 		"php": ">=5.3.0",
-		"illuminate/support": "10.x",
+		"illuminate/support": "^10.x|^11.x",
 		"tijsverkoyen/twitteroauth": "dev-master"
 	},
 	"autoload": {
